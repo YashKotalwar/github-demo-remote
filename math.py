@@ -1,16 +1,17 @@
-# Add
+# Add Implementation
 def add(x,y):
     return x+y
     
-# Subtract
+# Subtract Implementation
 def subtract(x,y):
     return x-y      # on master branch 
     
-# Multiply    
+# Multiply   Implementation
 def multiply(x,y):
     return x*y      # on Bug456
     
-# Divide    
+# Divide 
+# IMP Implementation   
 def divide(x,y):    #on master
     if y==0:
         return Divide_Error
