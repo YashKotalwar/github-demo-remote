@@ -10,7 +10,8 @@ def subtract(x,y):
     
 # Multiply   Implementation
 def multiply(x,y):
-    return x*y      # on Bug456
+    x = x*y
+    return x     # from local repo
     
 # Divide 
 # IMP Implementation   
