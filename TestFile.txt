@@ -2,5 +2,3 @@ Hi ,
 This is file1.txt.
 Inserting new commit
 Inserting new commit2
-
-change 1 -> Bug branch is created and Its first commit 
